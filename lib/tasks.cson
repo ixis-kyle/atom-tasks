@@ -1,6 +1,7 @@
 'fileTypes': [
   'todo'
   'taskpaper'
+  'md'
 ]
 'scopeName': 'source.todo'
 
